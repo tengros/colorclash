@@ -1,0 +1,10 @@
+Spelet startas. På startskärmen finns en knapp för regler och man kan även välja svårighetsgrad 1 eller 2. Man skickas sedan in i spelet med vald svårighetsgrad. Svårighetsgrad 1 är att man enbart ska gissa om nästa kort i högen kommer vara svart eller rött. Svårighetsgrad 2 är att man gissar om nästa kort i högen kommer vara ruter, klöver, spader eller hjärtan.
+Kortleken består av  52 kort, men ur denna korthög kommer endast 15 kort slumpas in i varje spelomgång. 
+Det kommer tidsbegränsat hur länge man får på sig att gissa nästa kort i högen, hinner man inte inom tidsgränsen så får man 0 poäng. Det kommer också vara ett poängsystem där man får extra poäng ifall man gissar flera rätt i rad. 
+
+Spelets layout kommer se ut som så här att under spelomgången så ser man kort med nervända kort, och det översta i högen har ett frågetecken. Man klickar sedan på sitt val av färg, och då kommer kortet fram och visas en viss tid innan det försvinner och man får gissa på nästa kort. 
+
+När man tagit sig genom de 15 korten som spelet består av så skickas man vidare till poängtavlan där det står hur mycket poäng man fick och även en total highscore på vad som är det bästa resultatet man fått genom tiderna. Och där ligger även en knapp som frågar om man vill spela igen.
+
+Detta är spelet i sin enkelhet och funktioner som jag kommer ha med. Finns det tid och utrymme så kommer jag utveckla spelet allt eftersom.
+En funktion jag gärna vill ha med i spelet är att man på startskärmen ska kunna välja om man vill köra spelet på engelska eller svenska, alternativt så lägger jag den funktionen beroende på vad telefonen är inställd på för region.  
